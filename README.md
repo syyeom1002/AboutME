@@ -11,79 +11,66 @@
 <br />
 
 
-# 기술 스택 
+# 🛠 기술 스택 
 <img src="https://img.shields.io/badge/Unity-181717?style=for-the-badge&logo=Unity&logoColor=white"> <img src="https://img.shields.io/badge/-C%23-7952B3?logo=Csharp&style=for-the-badge">  <img src="https://img.shields.io/badge/SVN-3776AB?style=for-the-badge&logo=SVN&logoColor=white"> <img src="https://img.shields.io/badge/Oculus-00599C?style=for-the-badge&logo=Oculus&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
 
+<br>
 
-
-# 📝Projects
+#  Projects
 진행했던 프로젝트들 입니다! 
 
 
 **최신순**으로 정리하였습니다.
 
 
-## 1. 🛫 MarvelVR
+## 1. 🦸‍♂️ MarvelVR
 
-> 여행일정 추천 _(내일배움캠프 - 4416조 팀프로젝트)_
+> VR 히어로 체험 _(K디지털 - 팀프로젝트)_
 >
 > - 개발기간 : 2022.07.07-09.02
 > - 핵심 역할 : 팀장, TSP 알고리즘을 활용한 여행추천 알고리즘 작성, React를 사용한 SPA 개발
->
->> Back-end
->> - Language : python3  
->> - Skill : Django, Django-rest-framework, PostgreSQL
->> 
->> [프로젝트 상세 설명(Back-end)](https://github.com/kimphysicsman/MyLittelTrip_backend)  
->
->> Front-end
->> - Language : javascript
->> - Skill : React.js
->>
->> [프로젝트 상세 설명(Front-end)](https://github.com/kimphysicsman/MyLittelTrip_frontend_react)
+>> [프로젝트 상세 설명(Back-end)](https://github.com/syyeom1002/MarvelVR)  
 
 <br />
 
-## 2. 👞 Zombero: HeroShooter 모작
+## 2. 🤠 Zombero: HeroShooter 모작
 
-> 신발 스타일링 _(내일배움캠프 - 4520조 팀프로젝트)_
+> 3D 슈팅게임 _(K디지털 - 개인 프로젝트)_
 >
 > - 개발기간 : 2022.06.28-07.06
-> - 핵심 역할 : 팀장, Generative model를 이용한 신발 스타일링 기능 구현
 > - Language : python3
 > - Skill : Django, Django-rest-framework
 >
-> [프로젝트 상세 설명](https://github.com/kimphysicsman/mylittleshoes_backend)
+> [프로젝트 상세 설명](https://github.com/syyeom1002/Zombero)
 
 <br />
 
-## 3. 🍻 Mario 모작 
+## 3. 🍄 Mario 모작 
 
-> 맥주 추천 _(내일배움캠프 - 판타스틱4조 팀프로젝트)_
+> 2D _(K디지털 - 개인 프로젝트)_
 >
 > - 개발기간 : 2022.06.02-13
-> - 핵심 역할 : 팀장, 맥주 Data 전처리 및 자카드 알고리즘을 이용한 추천 기능 구현 
 > - Language : python3, javascript
 > - Skill : Django, MySQL
 >
-> [프로젝트 상세 설명](https://github.com/kimphysicsman/mylittlebeer/)
+> [프로젝트 상세 설명](https://github.com/syyeom1002/Mario)
 
 <br />
 
-## 4. 👊 잘조립
+## 4. 🪑 잘조립
 
-> 닮은 마블 캐릭터 찾기 _(내일배움캠프 - 판타스틱4조 팀프로젝트)_
+> AR 가구조립설명서 _(한성대학교 캡스톤 - 팀프로젝트)_
 >
 > - 개발기간 : 2022.05.18-25
 > - 핵심 역할 : 팀장, CNN 모델별 학습 및 성능 비교, 닮은 마블 캐릭터 찾기 기능 구현
 > - Language : python3   
 > - Skill : flask, mongoDB
 >
-> [프로젝트 상세 설명](https://github.com/kimphysicsman/mylittlehero_backend)
+> [프로젝트 상세 설명](https://github.com/syyeom1002/Capstone_AR-)
 
 <br />
 
-## Education
+## 👩‍🏫 Education
 **한성대학교 컴퓨터공학부**
 
 2018.03. ~ 2023.08(졸업)
@@ -95,14 +82,14 @@
 
 <br>
 
-## Certification
+## 🎖 Certification
 **정보처리기사 (2024.06.18)**
 
 한국산업인력공단
 
 <br>
 
-## Awards
+## 🏆 Awards
 **한성대학교 2022 캡스톤 ‘ 장려상 ‘**
 
 잘조립(2022.06.16)
