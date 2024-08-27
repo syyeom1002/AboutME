@@ -28,6 +28,8 @@
 > VR 히어로 체험 _(K디지털 - 팀프로젝트)_
 >![그림1](https://github.com/user-attachments/assets/062e01bc-0b4b-4e5c-aebe-fc93e6f845b8)
 ![잘조립](https://github.com/user-attachments/assets/38d59b9b-893b-4802-814c-df8887c1d974)
+> ![좀배로](https://github.com/user-attachments/assets/28d44526-eb4c-4ed0-acc6-e71b4057d09f)
+![마리오](https://github.com/user-attachments/assets/add4639f-7fde-4da8-9d7a-5382d1992e95)
 > - 개발기간 : 2022.07.07-09.02
 > - 핵심 역할 : 팀장, TSP 알고리즘을 활용한 여행추천 알고리즘 작성, React를 사용한 SPA 개발
 >> [프로젝트 상세 설명(Back-end)](https://github.com/syyeom1002/MarvelVR)  
