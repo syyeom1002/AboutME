@@ -27,7 +27,7 @@
 
 > VR 히어로 체험 _(K디지털 - 팀프로젝트)_
 > 
-> <img src="https://github.com/user-attachments/assets/062e01bc-0b4b-4e5c-aebe-fc93e6f845b8" width="40%" height="240"/>
+> <img src="https://github.com/user-attachments/assets/062e01bc-0b4b-4e5c-aebe-fc93e6f845b8" width="50%" height="240"/>
 >
 >[프로젝트 상세 설명](https://github.com/syyeom1002/MarvelVR)  
 
@@ -37,7 +37,7 @@
 
 > 3D 슈팅게임 _(K디지털 - 개인 프로젝트)_
 > 
-> <img src="https://github.com/user-attachments/assets/e99c5942-d76a-4d9c-bc9a-300b1c50194e" width="40%" height="240"/>
+> <img src="https://github.com/user-attachments/assets/e99c5942-d76a-4d9c-bc9a-300b1c50194e" width="50%" height="240"/>
 > 
 > [프로젝트 상세 설명](https://github.com/syyeom1002/Zombero)
 
@@ -47,7 +47,7 @@
 
 > 2D _(K디지털 - 개인 프로젝트)_
 >
-> <img src="https://github.com/user-attachments/assets/add4639f-7fde-4da8-9d7a-5382d1992e95" width="40%" height="240"/>
+> <img src="https://github.com/user-attachments/assets/add4639f-7fde-4da8-9d7a-5382d1992e95" width="50%" height="240"/>
 >
 > [프로젝트 상세 설명](https://github.com/syyeom1002/Mario)
 
@@ -57,7 +57,7 @@
 
 > AR 가구조립설명서 _(한성대학교 캡스톤 - 팀프로젝트)_
 >
-> <img src="https://github.com/user-attachments/assets/38d59b9b-893b-4802-814c-df8887c1d974" width="40%" height="230"/>
+> <img src="https://github.com/user-attachments/assets/38d59b9b-893b-4802-814c-df8887c1d974" width="50%" height="230"/>
 >
 > [프로젝트 상세 설명](https://github.com/syyeom1002/Capstone_AR-)
 
