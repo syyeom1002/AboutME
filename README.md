@@ -60,7 +60,7 @@
 
 > AR 가구조립설명서 _(한성대학교 캡스톤 - 팀프로젝트)_
 >
-> <img src="https://github.com/user-attachments/assets/38d59b9b-893b-4802-814c-df8887c1d974" width="50%" height="230"/>
+> <img src="https://github.com/user-attachments/assets/38d59b9b-893b-4802-814c-df8887c1d974" width="50%" height="200"/>
 >
 > [프로젝트 상세 설명](https://github.com/syyeom1002/Capstone_AR-)
 
