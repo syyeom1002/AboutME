@@ -37,7 +37,7 @@
 
 > 3D 슈팅게임 _(K디지털 - 개인 프로젝트)_
 > 
-> <img src="https://github.com/user-attachments/assets/28d44526-eb4c-4ed0-acc6-e71b4057d09f" width="40%" height="240"/>
+> <img src="https://github.com/user-attachments/assets/e99c5942-d76a-4d9c-bc9a-300b1c50194e" width="40%" height="240"/>
 > 
 > [프로젝트 상세 설명](https://github.com/syyeom1002/Zombero)
 
