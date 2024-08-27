@@ -26,24 +26,19 @@
 ## 1. 🦸‍♂️ MarvelVR
 
 > VR 히어로 체험 _(K디지털 - 팀프로젝트)_
->![그림1](https://github.com/user-attachments/assets/062e01bc-0b4b-4e5c-aebe-fc93e6f845b8)
-![잘조립](https://github.com/user-attachments/assets/38d59b9b-893b-4802-814c-df8887c1d974)
-> ![좀배로](https://github.com/user-attachments/assets/28d44526-eb4c-4ed0-acc6-e71b4057d09f)
-![마리오](https://github.com/user-attachments/assets/add4639f-7fde-4da8-9d7a-5382d1992e95)
-> - 개발기간 : 2022.07.07-09.02
-> - 핵심 역할 : 팀장, TSP 알고리즘을 활용한 여행추천 알고리즘 작성, React를 사용한 SPA 개발
->> [프로젝트 상세 설명(Back-end)](https://github.com/syyeom1002/MarvelVR)  
+> 
+> <img src="https://github.com/user-attachments/assets/062e01bc-0b4b-4e5c-aebe-fc93e6f845b8" width="40%" height="240"/>
+>
+>[프로젝트 상세 설명](https://github.com/syyeom1002/MarvelVR)  
 
 <br />
 
 ## 2. 🤠 Zombero: HeroShooter 모작
 
 > 3D 슈팅게임 _(K디지털 - 개인 프로젝트)_
->
-> - 개발기간 : 2022.06.28-07.06
-> - Language : python3
-> - Skill : Django, Django-rest-framework
->
+> 
+> <img src="https://github.com/user-attachments/assets/28d44526-eb4c-4ed0-acc6-e71b4057d09f" width="40%" height="240"/>
+> 
 > [프로젝트 상세 설명](https://github.com/syyeom1002/Zombero)
 
 <br />
@@ -52,9 +47,7 @@
 
 > 2D _(K디지털 - 개인 프로젝트)_
 >
-> - 개발기간 : 2022.06.02-13
-> - Language : python3, javascript
-> - Skill : Django, MySQL
+> <img src="https://github.com/user-attachments/assets/add4639f-7fde-4da8-9d7a-5382d1992e95" width="40%" height="240"/>
 >
 > [프로젝트 상세 설명](https://github.com/syyeom1002/Mario)
 
@@ -64,10 +57,7 @@
 
 > AR 가구조립설명서 _(한성대학교 캡스톤 - 팀프로젝트)_
 >
-> - 개발기간 : 2022.05.18-25
-> - 핵심 역할 : 팀장, CNN 모델별 학습 및 성능 비교, 닮은 마블 캐릭터 찾기 기능 구현
-> - Language : python3   
-> - Skill : flask, mongoDB
+> <img src="https://github.com/user-attachments/assets/38d59b9b-893b-4802-814c-df8887c1d974" width="40%" height="230"/>
 >
 > [프로젝트 상세 설명](https://github.com/syyeom1002/Capstone_AR-)
 
