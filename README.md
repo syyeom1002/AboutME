@@ -7,17 +7,15 @@
 > - 오프젝트 풀링, 라이트맵 등을 이용해 30까지 떨어진 fps를 60까지 끌어올린 경험이 있습니다. 이처럼 최적화를 통해 **사용자의 편의성을 최우선**으로 합니다.
 > 
 > - 학습한 내용 및 개발일지를 티스토리에 꾸준히 정리하여 지식을 공유할 수 있도록 하고 있습니다. 
-<div align="center">
+> <div align="left">
 
-  <img src="https://github.com/user-attachments/assets/bbf87c18-8bb5-4f78-8f3b-89815df475c1" width="49%" height="280"/>
-  <img src="https://github.com/user-attachments/assets/a0516eea-442e-41ec-bed1-6819eab7db4c" width="49%" height="280"/>
-  <img src="https://github.com/user-attachments/assets/0a0f3334-245d-4794-94d4-1f2665892f00" width="49%" height="280"/>
-  <img src="https://github.com/user-attachments/assets/cdb9eb56-9511-4ea5-b8d5-fc3420dbd165" width="49%" height="280"/>
+  <img src="https://github.com/user-attachments/assets/459c6e06-c46a-4f69-8cf8-cce6a28be03a" width="48%" height="100"/>
+  <img src="https://github.com/user-attachments/assets/9f54fbb1-d06f-470d-8309-2f1d0086167e" width="48%" height="110"/>
 
-
-</div>
+  </div>
+  
 <br />
-
+<br>
 
 # 🛠 기술 스택 
 <img src="https://img.shields.io/badge/Unity-181717?style=for-the-badge&logo=Unity&logoColor=white"> <img src="https://img.shields.io/badge/-C%23-7952B3?logo=Csharp&style=for-the-badge">  <img src="https://img.shields.io/badge/SVN-3776AB?style=for-the-badge&logo=SVN&logoColor=white"> <img src="https://img.shields.io/badge/Oculus-00599C?style=for-the-badge&logo=Oculus&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
