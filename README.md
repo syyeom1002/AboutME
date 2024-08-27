@@ -12,9 +12,8 @@
 
 
 # 기술 스택 
-+ Unity ,C#, Git, SVN, Oculus
-<img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=Unity&logoColor=black">
-<img src="https://img.shields.io/badge/-C%23-000000?logo=Csharp&style=flat">
+<img src="https://img.shields.io/badge/Unity-181717?style=for-the-badge&logo=Unity&logoColor=white"> <img src="https://img.shields.io/badge/-C%23-7952B3?logo=Csharp&style=for-the-badge">  <img src="https://img.shields.io/badge/SVN-3776AB?style=for-the-badge&logo=SVN&logoColor=white"> <img src="https://img.shields.io/badge/Oculus-00599C?style=for-the-badge&logo=Oculus&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
+
 
 
 # 📝Projects
