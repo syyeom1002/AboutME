@@ -10,12 +10,21 @@
 
 <br />
 
+
+# 기술 스택 
++ Unity ,C#, Git, SVN, Oculus
+<img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=Unity&logoColor=black">
+<img src="https://img.shields.io/badge/-C%23-000000?logo=Csharp&style=flat">
+
+
 # 📝Projects
-진행했던 프로젝트들 입니다! 최신순으로 정리되어 있습니다.
-팀장으로서는 운영적인 면과 ***팀원들 학습 관리***, 프로젝트 일정 관리 등 많은 경험을 할 수 있었고,  
+진행했던 프로젝트들 입니다! 
 
 
-## 1. 🛫 MyLittleTrip
+**최신순**으로 정리하였습니다.
+
+
+## 1. 🛫 MarvelVR
 
 > 여행일정 추천 _(내일배움캠프 - 4416조 팀프로젝트)_
 >
@@ -36,7 +45,7 @@
 
 <br />
 
-## 2. 👞 MyLittleShoes
+## 2. 👞 Zombero: HeroShooter 모작
 
 > 신발 스타일링 _(내일배움캠프 - 4520조 팀프로젝트)_
 >
@@ -49,7 +58,7 @@
 
 <br />
 
-## 3. 🍻 MyLittleBeer
+## 3. 🍻 Mario 모작 
 
 > 맥주 추천 _(내일배움캠프 - 판타스틱4조 팀프로젝트)_
 >
@@ -62,7 +71,7 @@
 
 <br />
 
-## 4. 👊 MyLittelHero
+## 4. 👊 잘조립
 
 > 닮은 마블 캐릭터 찾기 _(내일배움캠프 - 판타스틱4조 팀프로젝트)_
 >
@@ -75,61 +84,34 @@
 
 <br />
 
-## 5. 🎮 Sparta Fighter
+## Education
+**한성대학교 컴퓨터공학부**
 
-> 2d 횡스크롤 격투 게임 _(내일배움캠프 - 개인 프로젝트)_
->
-> - 개발기간 : 2022.04.25-27
-> - 핵심 역할 : 캐릭터 클래스 구현 및 이벤트 루프 작성
-> - Language : python3
->
-> [프로젝트 상세 설명](https://github.com/kimphysicsman/sparta_fighter)
-
-<br />
-
-## 6. 🎶 RE:TRO | 그때 그 시절, 당신의 음악
-
-> 1980-2010년 뮤직 웹사이트 _(메이킹챌린지 - 코딩왕조 팀프로젝트)_
->
-> - 개발기간 : 2022.03.02-17
-> - 핵심 역할 : 팀장, 노래 재생 기능, 좋아요 기능
-> - Language : python3, javascript
-> - Skill : flask, mongoDB
->
-> [프로젝트 상세 설명](https://github.com/kimphysicsman/retro_main)
-
-<br />
-
-# 🎞 Youtube
-<table>
-  <tbody>
-    <tr>
-      <td>
-        <a href="https://youtu.be/BYKYpyyJfKU" title="판타스틱4조 - 머신러닝기초 4주차 스터디영상">
-          <img align="center" src="https://user-images.githubusercontent.com/68724828/186108751-0ad77c13-2115-4621-af8d-f4a11e5b3652.png" width="300" alt-text="판타스틱4조 - 머신러닝기초 4주차 스터디영상">
-        </a>
-      </td>
-      <td>
-        <a href="https://youtu.be/HR1b2hrxvbY" title="사오이십조 - DRF 5일차 스터디영상">
-          <img align="center" src="https://user-images.githubusercontent.com/68724828/186109362-b40c300c-0906-4062-9bc3-8229e692af8e.png" width="300" alt-text="사오이십조 - DRF 5일차 스터디영상">
-        </a>
-      </td>
-      <td>
-        <a href="https://youtu.be/nXTzsSGfIbg" title="사오이십조 - 220624아침퀴즈 스터디영상">
-        <img align="center" src="https://user-images.githubusercontent.com/68724828/186110013-b5c77cf3-0bbc-481a-897b-d3a30bc74be6.png" width="300" alt-text="사오이십조 - 220624아침퀴즈 스터디영상">
-          </a>
-      </td>
-    </tr>
-  </tbody>
-</table>
-> <b><em><a href="https://www.youtube.com/channel/UCdnXRtn_xnRWzZxUGY0yyWg/videos">More videos...</a></em></b>
+2018.03. ~ 2023.08(졸업)
 
 
-<br />
-<br />
+**고용노동부 유니티 활용 3D게임 콘텐츠 VR 네트워크 메타버스 플랫폼 개발 과정** 
 
-# 📞 Contact
+2023.07 ~ 2023.01(수료)
 
+<br>
+
+## Certification
+**정보처리기사 (2024.06.18)**
+
+한국산업인력공단
+
+<br>
+
+## Awards
+**한성대학교 2022 캡스톤 ‘ 장려상 ‘**
+
+잘조립(2022.06.16)
+
+<br>
+
+## 📞 Contact
+- 핸드폰 : 010-5580-9469
 - 이메일 : syyeom1002@naver.com
 - 블로그 : <a href="https://syyeom1002.tistory.com/">
   <img src="https://user-images.githubusercontent.com/68724828/185885678-8f619bfa-1160-4bb4-a026-f758a4014f82.png" height="26px" style="margin-top: 10px" />
