@@ -8,11 +8,11 @@
 > 
 > - 학습한 내용 및 개발일지를 티스토리에 꾸준히 정리하여 지식을 공유할 수 있도록 하고 있습니다. 
 > <div align="left">
-
-  <img src="https://github.com/user-attachments/assets/459c6e06-c46a-4f69-8cf8-cce6a28be03a" width="48%" height="100"/>
-  <img src="https://github.com/user-attachments/assets/9f54fbb1-d06f-470d-8309-2f1d0086167e" width="48%" height="110"/>
-
-  </div>
+>
+>  <img src="https://github.com/user-attachments/assets/459c6e06-c46a-4f69-8cf8-cce6a28be03a" width="48%" height="100"/>
+>  <img src="https://github.com/user-attachments/assets/9f54fbb1-d06f-470d-8309-2f1d0086167e" width="48%" height="110"/>
+>
+>  </div>
   
 <br />
 <br>
